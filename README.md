@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on redesigning my portfolio website<br>🌱 I’m currently learning Kotlin<br>
+👋Hi! I'm Austin or Aung Myat, and I like building solutions to real-world problems. <br>🔭 I’m currently working on redesigning my portfolio website<br>🌱 I’m currently learning Kotlin<br>
 
 
 ## 🌐 Socials:
